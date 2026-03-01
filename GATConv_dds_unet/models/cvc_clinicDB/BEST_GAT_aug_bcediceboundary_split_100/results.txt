@@ -1,0 +1,7 @@
+Final Validation Loss: 0.1066
+Final Validation IoU: 0.8901
+Final Validation Dice: 0.9407
+Final Validation Accuracy: 0.9881
+Final Validation Precision: 0.9330
+Final Validation Recall: 0.9498
+Best Validation Dice: 0.9447
