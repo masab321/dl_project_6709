@@ -2,7 +2,7 @@
 
 > A novel encoder–decoder architecture integrating Graph Attention Networks and Fixed-Volume Compression for robust medical image segmentation.
 
-[![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://python.org)
+[![Python](https://img.shields.io/badge/Python-3.12-blue.svg)](https://python.org)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0%2B-red.svg)](https://pytorch.org)
 [![PyG](https://img.shields.io/badge/PyG-GATConv-orange.svg)](https://pyg.org)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](#)

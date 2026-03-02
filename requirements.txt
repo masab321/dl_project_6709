@@ -1,0 +1,15 @@
+albumentations==1.0.1
+matplotlib==3.10.8
+medpy==0.5.2
+numpy==2.4.2
+opencv_python_headless==4.12.0.88
+pandas==3.0.1
+Pillow==12.1.1
+ptflops==0.7.5
+PyYAML==6.0.3
+scikit_learn==1.8.0
+scipy==1.17.1
+torch==2.11.0.dev20260104+cu130
+torch_geometric==2.7.0
+torchvision==0.25.0.dev20260104+cu130
+tqdm==4.67.1
